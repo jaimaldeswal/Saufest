@@ -1,0 +1,181 @@
+
+
+.mySlides {display:none;}
+
+
+.a11{
+    color: white;
+}
+
+
+
+.a12{
+    background-color: darkolivegreen;
+}
+.a13{
+  background-color: lightblue;
+}
+.a14{
+  color: black;
+}
+.a15{
+  color: blue;
+}
+.a16{
+  background-color: blue;
+}
+
+.img1 {
+    width: 100%;
+    height: auto;
+  }
+
+
+ .marquee1 {
+     color: black;
+    width: 100%;
+    padding: 10px 0;
+    background-color: wheat;
+  } 
+  .wrap1{
+    display: flex;  
+    flex-wrap:  wrap ;
+  }
+
+  .item1 {
+    flex-grow: 8; 
+  }
+
+  .item2 {
+    
+    flex-grow:3 ; 
+  }
+
+  
+  .copyrightCare {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #1E2842;
+    text-align: center;
+    text-decoration: none;
+    border-bottom:black 1px solid;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-bottom: 12px
+  }
+ 
+
+  .z11  {
+ 
+  background-color: lightsalmon;
+  }
+
+.h11{
+  height: 140px;
+}
+
+
+.h12{
+  height: 70px;
+}
+
+.h13{
+  height: 30px;
+}
+
+.h14{
+  height: 10px;
+  background-color: wheat;
+}
+
+
+.h15{
+  height: 20px;
+}
+
+.w11{
+
+background-color: darksalmon;
+
+}
+
+
+
+
+.msg1{
+  left:40%;
+  text-align:center;
+  font-size: 45px;
+  text-decoration: underline;
+  text-decoration-color: darkgreen;
+  text-shadow: 2px 2px 8px #FF0000;
+}
+
+
+
+.rules-height{
+text-decoration: underline;
+height: auto;
+color: white;
+}
+
+.backtop{
+  background-color: darkblue;
+  color: white;
+  height: 20%;
+  width: 70px;
+  float: right;
+
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
